@@ -1,6 +1,4 @@
-# Project Title
-
-Brick Breaker Game - Basic Version
+# Brick Breaker Game - Basic Version
 
 ## Introduction
 
